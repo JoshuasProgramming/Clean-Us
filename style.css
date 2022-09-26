@@ -28,6 +28,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: inherit;
+  padding-top: 35px;
 }
 .section-1 .section-1-container .two-btns a {
   clear: both;
