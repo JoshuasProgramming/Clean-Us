@@ -135,6 +135,15 @@
             text-decoration: none;
             color: black;
             font-family: 'Poppins', sans-serif;
+            border-radius: 5px;
+            height: 15px;
+            padding: 10px 10px 16px 10px;
+            transition: .5s ease-in;
+            
+        }:hover{
+            transition: .5s ease-in;
+            cursor: pointer;
+            background: #d8d6d6a3;
         }
     }
 }

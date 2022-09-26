@@ -121,4 +121,13 @@
   text-decoration: none;
   color: black;
   font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  height: 15px;
+  padding: 10px 10px 16px 10px;
+  transition: 0.5s ease-in;
+}
+.section-3 .section-3-container :hover {
+  transition: 0.5s ease-in;
+  cursor: pointer;
+  background: rgba(216, 214, 214, 0.6392156863);
 }/*# sourceMappingURL=style.css.map */
