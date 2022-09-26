@@ -92,7 +92,6 @@
         align-items: center;
         justify-content: space-evenly;
         flex-direction: row;
-        margin: auto auto auto 25pxx;
 
         h1{
             font-family: 'Poppins', sans-serif;
@@ -118,4 +117,24 @@
     background: #f7f7f7;
     height: 16vh;
     width: auto;
+
+    .section-3-container{
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content:space-evenly;
+        padding-top: 4%;
+
+        a{
+            clear: both;
+            display: inline-block;
+            overflow: hidden;
+            white-space: nowrap;
+            font-size: 18px;
+            margin-left: 10px;
+            text-decoration: none;
+            color: black;
+            font-family: 'Poppins', sans-serif;
+        }
+    }
 }
