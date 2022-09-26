@@ -148,3 +148,25 @@
         }
     }
 }
+
+.section-4{
+    background: #ead6d3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:30vh;
+
+    .section-4-image-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        max-width: -webkit-fill-available;
+
+        img{
+            width: -webkit-fill-available;
+            height: auto;
+            width: 50%;
+        }
+    }
+}

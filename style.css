@@ -131,4 +131,24 @@
   transition: 0.5s ease-in;
   cursor: pointer;
   background: rgba(216, 214, 214, 0.6392156863);
+}
+
+.section-4 {
+  background: #ead6d3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+.section-4 .section-4-image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  max-width: -webkit-fill-available;
+}
+.section-4 .section-4-image-container img {
+  width: -webkit-fill-available;
+  height: auto;
+  width: 50%;
 }/*# sourceMappingURL=style.css.map */
