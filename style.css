@@ -71,4 +71,30 @@
 
 .section-2 {
   background: #ead6d3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+.section-2 .section-2-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  margin: auto auto auto 250px;
+}
+.section-2 .section-2-container h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+  padding: 0 20% 0 20%;
+}
+.section-2 .section-2-container h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  padding: 0 20% 0 20%;
+}
+.section-2 .section-2-container p {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding: 0 20% 0 20%;
 }/*# sourceMappingURL=style.css.map */
