@@ -4,12 +4,42 @@
 }
 
 .section-1{
-    background: #f8f8f8;
-    height: 12vh;
+    background: rgb(248, 248, 248);
+    height: 16vh;
+    width: auto;
 
     .section-1-container{
         display: flex;
         align-items: center;
         flex-direction: row;
+        justify-content: center;
+
+        .text-and-paragrapgh{
+            padding-top: 2.5%;
+
+            h2{
+                padding: 0 20% 0 20%;
+            }
+
+            p{
+                padding: 0 20% 0 20%;
+            }
+        }
+
+        .two-btns{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: inherit;
+
+            a{
+                clear: both;
+                display: inline-block;
+                overflow: hidden;
+                white-space: nowrap;
+                font-size: 18px;
+                padding-left: 10px;
+            }
+        }
     }
 }
