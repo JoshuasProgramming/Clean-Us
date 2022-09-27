@@ -147,6 +147,14 @@
   font-family: "Poppins", sans-serif;
   padding: 0 0 2% 0;
 }
+.section-4 .section-4-left .sub1-section-4-left h3 {
+  padding-bottom: 0.5%;
+  font-family: "Poppins", sans-serif;
+}
+.section-4 .section-4-left .sub1-section-4-left h4 {
+  padding-top: 0.5%;
+  font-family: "Poppins", sans-serif;
+}
 .section-4 .section-4-image-container {
   display: flex;
   align-items: center;
